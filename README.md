@@ -55,9 +55,9 @@ what you built thinking - the causal averaging matrix, a real attention map on r
 text, bigram-vs-GPT loss curves, and the same prompt sampled as training progresses,
 from noise to speech.
 
-Next up: **Module 8 - Let's build the GPT Tokenizer**, the last piece of the story:
-why real GPTs don't read characters, and the byte-pair machinery that feeds them. Watch
-for it on **[the course page](https://onlearn.app/projects/nn-zero-to-hero)**.
+Next up: **[Module 8 - Build the GPT Tokenizer](https://onlearn.app/projects/nn-zero-to-hero/gpt-tokenizer)**,
+the last piece of the story: why real GPTs don't read characters, and the byte-pair
+machinery that feeds them - pure Python, and the answer to why LLMs can't spell.
 
 ---
 
